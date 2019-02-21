@@ -26,7 +26,7 @@
               "components": [
                 {
                   "type": "label",
-                  "text": "SignalK Portal Alive",
+                  "text": "SignalK Portal Alive!!",
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
@@ -80,7 +80,7 @@
               },
               "text": "Demo",
               "href": {
-                "url": "https://www.youtube.com/watch?v=hfevBAAfCMQ",
+                "url": "http://demo.signalk.org/admin/#/dashboard",
                 "view": "Web"
               }
             },
